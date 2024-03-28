@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Puri\\source\\repos\\Empleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE3D176-5DB5-4E39-830E-BFB19BB67E92}|Empleado\\Empleado.csproj|c:\\users\\puri\\source\\repos\\empleado\\empleado\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE3D176-5DB5-4E39-830E-BFB19BB67E92}|Empleado\\Empleado.csproj|solutionrelative:empleado\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Puri\\source\\repos\\Empleado\\Empleado\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Empleado\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Puri\\source\\repos\\Empleado\\Empleado\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Empleado\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:10:43.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
